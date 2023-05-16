@@ -1,2 +1,3 @@
 # Automatidata-Study-Case
 The purpose of this study case is based on the Google Certification 'Google Advanced Data Analytics'. The objective of the study case is to generate an understanding of data modelling from scratch to a random forest boosted to predict values and characteristics of customers of Automatidata.
+For this project we used standard libraries such as pandas, numpy, matplotlib, seaborn, peakle, and several characteristics of SkLearn. Additionally, the process included phases of data recognition, Exploratory Data Analysis (EDA), multiple linear regression analysis, and advanced machine learning modelling. 
